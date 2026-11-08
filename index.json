@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "nginx-ingress-integrator-operator",
+  "versions": [
+    {
+      "commit": "4d73fd27fbcaa676d616f11022d743c613c399a8",
+      "tag": "",
+      "parsed_at": "2026-11-08T04:45:18.901216+00:00"
+    }
+  ]
+}
