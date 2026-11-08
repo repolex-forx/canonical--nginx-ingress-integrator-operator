@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/nginx-ingress-integrator-operator/commit/4d73fd27fbcaa676d616f11022d743c613c399a8",
       "git:hexsha": "4d73fd27fbcaa676d616f11022d743c613c399a8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/nginx-ingress-integrator-operator/commit/36b30ffe7c1403f8c1892380a79892b1c6821ab7",
